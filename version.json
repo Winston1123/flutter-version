@@ -1,0 +1,8 @@
+{
+  "version": "2.0.1",
+  "min_version": "1.5.0",
+  "changelog": "修复 bug，提升性能",
+  "url_ios": "https://apps.apple.com/app/id123456789",
+  "url_android": "https://example.com/apk/latest.apk",
+  "force": false
+}
